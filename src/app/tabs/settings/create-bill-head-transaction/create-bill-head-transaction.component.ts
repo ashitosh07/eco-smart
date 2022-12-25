@@ -11,7 +11,7 @@ import { fadeInUpAnimation } from '../../../../@fury/animations/fade-in-up.anima
 import { BillHeadTransactionService } from '../../shared/services/bill-head-transaction.service'
 import { MatSnackBar } from '@angular/material/snack-bar'
 import { MetadataService } from 'src/app/tabs/shared/services/metadata.service'
-import { MetadataBillHeads } from '../../shared/models/metadata.billHeads.model'
+import { MetadataBillHeads } from '../../shared/models/metadata.billheads.model'
 import { FormBuilder, FormGroup, Validators } from '@angular/forms'
 import { MetadataBillSettings } from '../../shared/models/metadata.bill-settings.model'
 import { Master } from '../../shared/models/master.model'
